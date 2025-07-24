@@ -46,10 +46,10 @@
     <li><a class="active" href="{% url 'index' %}">Home</a></li>
     <li><a href="#">About</a></li>
 
-    {% if request.session.vendor_id or request.session.traveller_id %}
+      {% if request.session.vendor_id or request.session.traveller_id %}
       <li><a href="{% url 'all_packages' %}">Destination</a></li>
       <li><a href="{% url 'booking' %}">Booking</a></li>
-    {% else %}
+      {% else %}
       <li><a href="{% url 'signup' %}">Destination</a></li>
       <li><a href="{% url 'signup' %}">Booking</a></li>
 
