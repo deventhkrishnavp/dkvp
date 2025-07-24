@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56c0760d-5f1e-4e1e-9b4b-3501f2958c07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel/trip/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/travel/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/flaticon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/gijgo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/nice-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/slicknav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/style.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/theme-default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/theme-default.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/css/themify-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/Flaticon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/Flaticon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/Flaticon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/Flaticon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/Flaticon.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/flaticon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/gijgo-material.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/gijgo-material.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/gijgo-material.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/gijgo-material.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/themify.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/themify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/themify.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/fonts/themify.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/about/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/about/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/banner/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/banner/banner2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/banner/banner3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/banner/bradcam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/banner/bradcam2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/banner/bradcam3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/banner/bradcam4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/banner/destination.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/banner/newsletter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/banner/testmonial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/banner/video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/blog/author.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/blog/blog_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/blog/blog_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/blog/blog_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/blog/blog_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/blog/learn_about_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/blog/single_blog_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/blog/single_blog_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/blog/single_blog_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/blog/single_blog_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/blog/single_blog_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/blog/slide_thumb_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/comment/comment_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/comment/comment_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/comment/comment_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/creative_mind/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/destination/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/destination/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/destination/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/destination/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/destination/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/destination/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/details-img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/details-img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/details-img/details_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/disabled-check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/disabled-radio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/f3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/f7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/g1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/g2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/g3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/g4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/g5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/g6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/g7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/g8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/primary-check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/primary-radio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/success-check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/elements/success-radio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/footer_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/instagram/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/instagram/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/instagram/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/instagram/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/instagram/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/instagram/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/place/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/place/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/place/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/place/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/place/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/place/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/post/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/post/post_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/post/post_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/post/post_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/post/post_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/post/post_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/post/post_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/post/post_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/post/post_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/post/post_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/post/post_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/post/preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/prise/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/prise/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/prise/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/property/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/property/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/property/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/property/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/property/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/property/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/service/about.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/svg_icon/1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/svg_icon/2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/svg_icon/3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/svg_icon/quote.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/team/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/team/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/team/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/testmonial/author.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/trip/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/trip/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/trip/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/works/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/works/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/works/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/img/works/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/ajax-form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/gijgo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/imagesloaded.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/isotope.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/jquery.ajaxchimp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/jquery.counterup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/jquery.form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/jquery.scrollUp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/jquery.slicknav.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/mail-script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/nice-select.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/range.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/scrollIt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/vendor/jquery-1.12.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/vendor/modernizr-3.5.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/static/js/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/templates/admin_login.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/templates/admin_login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/templates/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/templates/booking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/templates/create_package.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/templates/create_package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/templates/destination.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/templates/destination.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/templates/inc/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/templates/own.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/templates/own.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/templates/pay.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/templates/pay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/templates/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/templates/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/templates/vendor_bookings.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/templates/vendor_bookings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/templates/vendor_login.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/templates/vendor_login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/travel" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2yi1gemRIjsTiebvLF99se5WzEd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;v12&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56c0760d-5f1e-4e1e-9b4b-3501f2958c07" name="Changes" comment="" />
+      <created>1750302693503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750302693503</updated>
+    </task>
+    <servers />
+  </component>
+</project>
