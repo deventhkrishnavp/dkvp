@@ -8,6 +8,8 @@
       <change afterPath="$PROJECT_DIR$/travel/trip/templates/navbar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travel/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/travel/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/trip/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travel/trip/static/css/animate.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/travel/trip/static/css/bootstrap.min.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/travel/trip/static/css/flaticon.css" beforeDir="false" />
