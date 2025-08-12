@@ -1,0 +1,26 @@
+<h2>Create Invoice</h2>
+<form method="post">
+  {% csrf_token %}
+  <label>Customer:</label>
+  <select name="customer">
+    <option value="">-- Walk-in --</option>
+    {% for customer in customers %}
+      <option value="{{ customer.id }}">{{ customer.name }}</option>
+    {% endfor %}
+  </select>
+
+  <table>
+    <tr>
+      <th>Product</th><th>Price</th><th>Stock</th><th>Quantity</th>
+    </tr>
+
+    <tr>
+      <td>{{ product.name }}</td>
+      <td>{{ product.price }}</td>
+      <td>{{ product.stock }}</td>
+      <td><input type="number" name="quantity_{{ product.id }}" value="0" min="0" max="{{ product.stock }}"></td>
+    </tr>
+
+  </table>
+  <button type="submit">Generate Bill</button>
+</form>

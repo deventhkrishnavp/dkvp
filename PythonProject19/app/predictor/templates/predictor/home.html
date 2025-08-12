@@ -1,0 +1,12 @@
+<h2>Stock Price Predictor</h2>
+<form method="POST" action="{% url 'predict' %}">
+  {% csrf_token %}
+  {% if messages %}
+  {% for message in messages %}
+    <div style="color: red;">{{ message }}</div>
+  {% endfor %}
+{% endif %}
+
+  <input type="text" name="ticker" placeholder="Enter Stock Symbol (e.g., AAPL)" required>
+  <button type="submit">Predict</button>
+</form>

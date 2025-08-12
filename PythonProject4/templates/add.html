@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add New Employee</title>
+</head>
+<body>
+<h1>Add New Employee</h1>
+
+{% for category,message in get_flashed_messages(with_categor=true) %}
+    <ul>
+      <li class="{{category}}">{{message}}</li>
+    </ul>
+{% endfor %}
+   <form method="post">
+     <label for ="name"> =Name:</label>
+     <input type="text" id="name" name="name">
+     <label for="salary">salary: </label>
+     <input type="text" id="salary" name="salary">
+     <label for ="age">Age:</label>
+     <input type="text" id="age" name="age" value="{{request.form.get('age') }}">
+     <input type="submit" value="Add Employee">
+   </form>
+
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+<h2>Stock Prediction for {{ ticker }}</h2>
+<p><strong>Latest Price:</strong> ₹{{ latest }}</p>
+<p><strong>Predicted Next Price:</strong> ₹{{ prediction }}</p>
+
+{% if graph_url %}
+  <h3>Price Chart</h3>
+  <img src="{{ graph_url }}" alt="Stock Chart" style="max-width:100%;">
+{% else %}
+  <p style="color: red;">Chart could not be generated.</p>
+{% endif %}

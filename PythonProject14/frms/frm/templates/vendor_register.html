@@ -1,0 +1,33 @@
+{% include 'inc/navbar.html' %}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendor Registration</title>
+    <link rel="stylesheet" href="">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .registration-form {
+            max-width: 500px;
+            margin: auto;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="registration-form bg-white shadow p-4 rounded">
+        <h2 class="text-center mb-4">Vendor Registration</h2>
+        <form method="post">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit" class="btn btn-primary w-100">Register</button>
+        </form>
+    </div>
+</div>
+</body>
+</html>

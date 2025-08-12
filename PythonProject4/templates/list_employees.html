@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Employess</title>
+</head>
+<body>
+    <h1>Employee List</h1>
+    <ul>
+      {% for employee in employees %)
+      <li>
+        {{employee.name}} - {{employee.salary}} - {{employee.age}}
+        <a href="{{url_for('update_employee',id=employee.id) }}">update</a>
+        <a href="{{url_for('delete_employee',id=employee.id) }}" onclick="return conform('are you sure?');">Delete</a>
+
+      </li>
+      {% endfor %}
+    </ul>
+    <a href="{{url_for(add('add_employee') }}">Add New Employee</a>
+
+</body>
+</html>
