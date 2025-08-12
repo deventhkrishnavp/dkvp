@@ -7,6 +7,7 @@
     <list default="true" id="56c0760d-5f1e-4e1e-9b4b-3501f2958c07" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/travel/trip/templates/navbar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travel/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/travel/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travel/trip/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travel/trip/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/travel/trip/models.py" afterDir="false" />
